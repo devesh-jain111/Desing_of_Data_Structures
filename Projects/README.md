@@ -114,7 +114,7 @@ Each project focuses on **different core data structures and algorithms**.
    - Place source code in a `src` folder.
    - Add a `README.md` explaining the project, features, and how to run it.
    - Include screenshots or sample output.
-4. Submit your GitHub links by the deadline.
+4. Submit your GitHub link in class excel sheet [here](https://docs.google.com/spreadsheets/d/1zuVR33UhpJSZNUHauebuIxXRMfHrptnq3OySAuWiYbM/edit?usp=sharing)
 
 ---
 
